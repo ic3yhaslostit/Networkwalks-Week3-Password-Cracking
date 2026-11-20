@@ -29,6 +29,8 @@ Key learning areas:
 - Understanding the importance of strong password policies
 
 **Flag captured:** `nw{networkwalks_persistence_jtr_270521}`
+<img width="819" height="607" alt="jtr_270521" src="https://github.com/user-attachments/assets/08de6abc-9bc4-4b13-8718-c00417381549" />
+
 
 #### W3-PM2 — Password Cracking with Networkwalks Tools
 Worked through the password-cracking laboratory using Networkwalks' own tooling.
@@ -39,6 +41,7 @@ Key learning areas:
 - Comparing different approaches to password-security testing
 
 **Flag captured:** `nw{cybersecurity_flag_captured_2608}`
+<img width="420" height="419" alt="cybersecurity_flag" src="https://github.com/user-attachments/assets/167c54e6-dfd7-4dbb-b554-2d062f4cd5ce" />
 
 #### Optional Lab — AI-Assisted JTR with Claude & HexStrike MCP
 I also explored the optional AI-assisted cybersecurity lab involving Claude Desktop and HexStrike MCP.
@@ -71,6 +74,7 @@ Prompt used:
 Claude used the HexStrike MCP connection to extract the PDF's hash and run John the Ripper automatically.
 
 **Result:** Password cracked — `password1` (1 candidate tried, under 1 second of actual crack time, using `rockyou.txt`).
+<img width="1365" height="654" alt="rockyou txt" src="https://github.com/user-attachments/assets/460afce5-1a68-4601-88bb-49e768edc7b6" />
 
 ### Key Lessons
 
